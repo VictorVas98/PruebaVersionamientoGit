@@ -1,3 +1,3 @@
-//public interface Seleccion {
-//    void verFortuna();
-//}
+public interface Seleccion {
+    void verFortuna();
+}
