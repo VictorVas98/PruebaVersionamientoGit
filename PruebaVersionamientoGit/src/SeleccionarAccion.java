@@ -6,7 +6,9 @@ public class SeleccionarAccion implements Seleccion{
                 "Mala suerte",
                 "Ganarás dinero fácil.",
                 "Se te facilitará aprender un idioma",
-                "Tendras una suerte regular"
+                "Tendras una suerte regular",
+                "Encontrarás un buen amigo",
+                "Encontrarás pareja"
         };
         Random rand = new Random();
         int n = rand.nextInt(5);
